@@ -1,0 +1,17 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.xml</mask>
+    <mask>*.pyw</mask>
+    <mask>*.sql</mask>
+    <mask>*.baZel</mask>
+    <mask>*test.py</mask>
+    <mask>*.bazel</mask>
+    <mask>*.py</mask>
+    <mask>*.yaml</mask>
+  </component>
+</application>
