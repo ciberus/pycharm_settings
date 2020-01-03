@@ -129,6 +129,9 @@
   <action id="PasteMultiple">
     <keyboard-shortcut first-keystroke="shift ctrl insert" />
   </action>
+  <action id="PrevSplitter">
+    <keyboard-shortcut first-keystroke="shift ctrl 1" />
+  </action>
   <action id="PreviousDiff">
     <keyboard-shortcut first-keystroke="shift f7" />
     <keyboard-shortcut first-keystroke="f2" />
@@ -168,6 +171,7 @@
     <keyboard-shortcut first-keystroke="f11" />
     <keyboard-shortcut first-keystroke="f1" />
   </action>
+  <action id="ToggleBookmark1" />
   <action id="ToggleBookmark2" />
   <action id="Tree-selectChildExtendSelection">
     <keyboard-shortcut first-keystroke="shift right" />
