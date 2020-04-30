@@ -5,7 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.baZel" />
+    <option name="FILE_MASK" value="requirements.txt" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -17,5 +17,6 @@
     <mask>*.py</mask>
     <mask>*.json</mask>
     <mask>*.baZel</mask>
+    <mask>requirements.txt</mask>
   </component>
 </application>
