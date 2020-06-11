@@ -13,7 +13,7 @@
     <mask>requirements.txt</mask>
     <mask>*.baZel</mask>
     <mask>*.yaml</mask>
-    <mask>*.bazel</mask>
     <mask>*.py</mask>
+    <mask>*.bazel</mask>
   </component>
 </application>
