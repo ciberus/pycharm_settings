@@ -5,6 +5,7 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern=".reap" type="PLAIN_TEXT" />
+      <mapping ext="jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern="clean-old-buildsystem-par" type="Shell Script" />
       <mapping pattern="par_utils" type="Shell Script" />
       <removed_mapping pattern="?" approved="true" type="Shell Script" />
