@@ -7,6 +7,8 @@
       <mapping pattern="import_and_repair_certificates.yml" type="PLAIN_TEXT" />
       <mapping pattern=".reap" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
+      <mapping ext="pfx" type="PLAIN_TEXT" />
+      <mapping ext="keystore" type="PLAIN_TEXT" />
       <mapping ext="jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern="clean-old-buildsystem-par" type="Shell Script" />
       <mapping pattern="par_utils" type="Shell Script" />
